@@ -5,7 +5,7 @@
 
 using namespace std;
 
-const double pi =3.14159265358;
+const double pi = 3.14159265358;
 
 int main(void) {
     int l;
